@@ -1,5 +1,5 @@
 # AngularAuthGuard
-## Auth admin is username: admin@gmail.com password: admin123
+## Auth admin is: username: admin@gmail.com password: admin123
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
